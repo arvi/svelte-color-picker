@@ -5,8 +5,6 @@
 <label for="{color}">{color} ({colorValue})</label>
 <input type="range" class="color-slider" name="{color}" bind:value="{colorValue}" min="0" max="255">
 
-
-
 <style>
     label::first-letter {
         text-transform:capitalize;

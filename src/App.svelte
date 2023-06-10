@@ -15,7 +15,7 @@
     <ColorPicker color="blue" bind:colorValue="{blueValue}" />
   </div>
 </div>
-<ColorPreview {redValue} {greenValue} {blueValue}/>
+<ColorPreview {redValue} {greenValue} {blueValue} />
 <style>
   h1 {
     margin-top: 25px;
